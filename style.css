@@ -12,7 +12,7 @@ html {
 body {
     background-color: #f4d04e;
     font-family: "Figtree", sans-serif;
-    font-size: 16px;
+    font-size: 1em;
     margin: 0;
 }
 
@@ -34,7 +34,6 @@ article:hover {
     }
 
     box-shadow: 15px 15px #111111;
-    transition: 0.5s;
 }
 
 
