@@ -9,6 +9,14 @@ html {
     box-sizing: inherit;
 }
 
+html, body {
+  height: 100%; 
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 body {
     background-color: #f4d04e;
     font-family: "Figtree", sans-serif;
